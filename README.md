@@ -3,7 +3,7 @@ The project makes use of Matlab and Camera to Identify a person using Viola Jone
 The Camera used here is the Integrated web-cam of a Laptop,even the Selfie Camera of a mobile can be connected for better clarity.
 Here,firstly a database has to be created using facial images of different people.
 Then, a model is trained using the database.
-Finally when the model is depoyed,it recognizes the person in front of the camera and displays that person's name on an LCd Screen.
+Finally when the model is deployed,it recognizes the person in front of the camera and displays that person's name on an LCD Screen.
 
 # Data Collection
 Matlab code for collecting images of different people and creating a database on the local computer .
